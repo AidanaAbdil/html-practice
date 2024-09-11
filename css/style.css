@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: antiquewhite;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height:1.8em ;
+    display: block;
+}
+
+img{
+    width: 40em;
+}
+
+code {
+    font-family: Inconsolata, monospace;
+        font-weight: 400;
+        display: inline-block;
+        padding: .1em .375em;
+        border-radius: .2em;
+        line-height: 1.2em;
+}
+
+.tags{
+    background:#272822;
+    color: #ddd;
+}
+
+.red{
+    color: red;
+}
